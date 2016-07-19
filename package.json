@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-flat-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "HyperTerm theme based on Flat UI color pallette",
   "main": "index.js",
   "scripts": {
