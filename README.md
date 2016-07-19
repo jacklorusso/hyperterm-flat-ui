@@ -1,6 +1,9 @@
 # Flat UI Color theme for HyperTerm
 
-[HyperTerm](https://hyperterm.org) theme based on [Panda's Flat UI Colors](http://flatuicolors.com/). Forked from @mdo's [Atom One Dark for HyperTerm](https://github.com/mdo/hyperterm-atom-dark), originally inspired by @jxnblk, and modified by @lol-russo.
+
+[HyperTerm](https://hyperterm.org) theme based on [Panda's Flat UI Colors](http://flatuicolors.com/).
+
+Modified code from @mdo's [Atom One Dark for HyperTerm](https://github.com/mdo/hyperterm-atom-dark). Thanks to @mdo and @jxnblk for providing the foundation.
 
 ### Install
 
@@ -17,4 +20,3 @@ plugins: [
 ### License
 
 MIT
-   
