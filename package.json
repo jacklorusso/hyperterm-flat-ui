@@ -1,8 +1,15 @@
 {
   "name": "hyperterm-flat-ui",
-  "version": "1.1.1",
-  "description": "Hyperterm theme based on Flat Ui color pallette",
+  "version": "1.0.1",
+  "description": "HyperTerm theme based on Flat UI color pallette",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lol-russo/hyperterm-flat-ui.git"
+  },
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
@@ -10,5 +17,9 @@
     "flat"
   ],
   "author": "Jack Lo Russo",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lol-russo/hyperterm-flat-ui/issues"
+  },
+  "homepage": "https://github.com/lol-russo/hyperterm-flat-ui#readme"
 }

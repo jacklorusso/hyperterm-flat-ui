@@ -1,5 +1,5 @@
 
-const backgroundColor = '#2c3e50'
+const backgroundColor = '#34495e'
 const foregroundColor = '#ecf0f1'
 const cursorColor = foregroundColor
 const borderColor = backgroundColor
@@ -47,8 +47,8 @@ exports.decorateConfig = config => {
         left: 0;
       }
       .tabs_list {
-        background-color: #21252b !important;
-        border-bottom-color: rgba(0,0,0,.15) !important;
+        background-color: #2c3e50 !important;
+        border-bottom-color: #2c3e50 !important;
       }
       .tab_tab.tab_active {
         font-weight: 500;
