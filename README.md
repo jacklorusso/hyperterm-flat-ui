@@ -3,6 +3,8 @@
 
 [HyperTerm](https://hyperterm.org) theme based on [Panda's Flat UI Colors](http://flatuicolors.com/).
 
+Enjoy the moody background colour 'Wet Asphalt'.
+
 Modified code from @mdo's [Atom One Dark for HyperTerm](https://github.com/mdo/hyperterm-atom-dark). Thanks to @mdo and @jxnblk for providing the foundation.
 
 ### Install
