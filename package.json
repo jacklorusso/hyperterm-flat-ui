@@ -1,0 +1,14 @@
+{
+  "name": "hyperterm-flat-ui",
+  "version": "1.1.1",
+  "description": "Hyperterm theme based on Flat Ui color pallette",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors",
+    "flat"
+  ],
+  "author": "Jack Lo Russo",
+  "license": "MIT"
+}
